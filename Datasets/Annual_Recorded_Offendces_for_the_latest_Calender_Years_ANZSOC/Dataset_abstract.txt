@@ -1,0 +1,64 @@
+OVERVIEW OF RECORDING AND COUNTING CRIME
+Police crime statistics collection
+New Zealand Police creates four data sets of recorded crime statistics, as follows:
+
+Calendar year Offence statistics
+Fiscal year Offence statistics
+Calendar year Apprehension statistics
+Fiscal year Apprehension statistics
+The statistics in these data sets are derived from NZ Police's National Intelligence Application (NIA)
+
+The Police fiscal year ends on 30 June
+
+Offence statistics give the number of recorded and resolved offences
+
+Apprehension statistics give the number of apprehensions of offenders and how such apprehensions were resolved. An apprehension means that a person has been identified by Police as the offender and, where appropriate, dealt with in some manner, such as warned, prosecuted, referred to youth justice Family Group Conference, diverted, etc.
+
+Recording crime
+Before a crime can be recorded in the National Intelligence Application, the matter needs to come to the attention of police. Research indicates that many crimes are never reported to police in the first instance. Crimes most likely to be reported include those that involve insurance claims and those where injuries require medical treatment.
+
+A range of other factors are known to affect whether a crime is reported to police. These include:
+
+the type of crime
+age, sex, race and ethnicity of the victim
+relationship between the victim and offender
+perceived seriousness of the crime, and
+a perception of how police would deal with the matter
+All reports of incidents, whether from victims, witnesses, third parties or discovered by Police and whether crime related or not, will result in the registration of an incident report by police. The incident will be recorded as one or more offences if:
+
+the circumstances as reported amount to a crime defined by law and
+there is no credible evidence to the contrary
+or if
+
+an incident was not reported as an offence, but upon investigation police determine that an offence is likely to have been committed
+Counting rules
+A recorded offence is counted as a resolved offence when an offender is identified and dealt with. (E.g. prosecuted, warned, cautioned, diverted, etc.)
+
+Official crime statistics present a snapshot of data in the National Intelligence Application relating to offences within a given year, be it calendar or fiscal, as at a date 14 days following the end of that year.
+
+If an offence is recorded 15 days or more after the end of a year it will not appear in the official statistics for that year.
+
+Similarly, if an offence is resolved 15 days or more after the end of a year it will not appear as resolved in the official statistics for that year.
+
+Although most offences are recorded within a short period of the offence occuring, many offences take time to resolve. Offences that are recorded towards the end of a year that are then resolved a few weeks into the following year will therefore not appear as resolved in official statistics. This phenomenon of undercounting resolutions has a more marked impact for some types of offences than others, such as offences requiring long investigations. (E.g. many serial crimes, burglaries and homicides)
+
+The resolution of an offence is counted against the date the offence occurred. Likewise, an apprehension is counted against the date the offence occurred.
+
+Couting rule implications for comparing monthly counts between Calendar and Fiscal Years
+As above, Calendar Year offence counts are as at 14 days after 31 December, while Fiscal Year offence counts are as at 14 days after 30 June. While both series will show offence counts for a given month, these counts will almost certainly be different, and therefore not comparable.
+
+This is because of factors such as:
+
+Subsequent reporting of historic offences
+Investigation by Police of offences reported subsequently determining that no offence actually occurred, or that a different offence occurred
+Investigation by Police of incidents reported subsequently determining that an offence actually occurred. For example a Sudden Death may later be determined to be a Homicide.
+Changes over time
+From time to time changes occur to categorisation of offences and other variables in these collections. These changes occur for reasons such as changes in legislation or the desire to gain more specificity in statistics for certain type of offences. Caution should therefore be observed when interpreting step-increases and decreases in the number of recorded offences of a certain type.
+
+Changes in public awareness or tolerance of certain types of offences over time may result in changes in the tendency of people to report crime to police. Caution should therefore be observed when making inferences about long-term trends in crime; particularly for types of offences that are known to be significantly under-reported. (E.g. Sexual offences and minor offences not warranting insurance claims or medical treatment)
+
+International comparisons
+Offence definitions and categorisations vary widely between Police jurisdictions internationally. For example, in New Zealand “Homicide” includes Murder, Attempted Murder, Manslaughter, Infanticide, Abortion, and Aiding Suicide/Pact; within this, “Murder” includes Conspiracy to Murder, and Incite/counsel/Attempt/ to Procure Murder. This variation, plus several other limitations associated with international comparisons, means that any results must be interpreted with extreme caution.
+
+Relevance to legislation
+Categorisation of offences in Justice sector systems are generally aligned with specific sections of acts of parliament. However, there is not always a one-to-one match. Where possible, references have been included in these tables to relevant legislation.

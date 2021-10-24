@@ -1,0 +1,11 @@
+name: data201dhrldeployedshinyapp
+title:
+username:
+account: data201dhrl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4930837
+bundleId: 5164869
+url: https://data201dhrl.shinyapps.io/data201dhrldeployedshinyapp/
+when: 1634870761.28694
+lastSyncTime: 1634870761.28696

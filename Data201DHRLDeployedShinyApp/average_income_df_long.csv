@@ -1,0 +1,313 @@
+"","Year","Location","Average_Income_from_All_Sources_collected","Median_Income_from_All_Sources_collected","Number_of_households"
+"1",1998,"Total New Zealand",910,756,1227.2
+"2",1999,"Total New Zealand",943,786,1240.1
+"3",2000,"Total New Zealand",950,794,1251.1
+"4",2001,"Total New Zealand",1012,845,1260.7
+"5",2002,"Total New Zealand",1063,891,1276.9
+"6",2003,"Total New Zealand",1110,912,1312.5
+"7",2004,"Total New Zealand",1157,959,1341
+"8",2005,"Total New Zealand",1208,1017,1357.9
+"9",2006,"Total New Zealand",1248,1080,1381.3
+"10",2007,"Total New Zealand",1345,1151,1393.1
+"11",2008,"Total New Zealand",1384,1200,1401
+"12",2009,"Total New Zealand",1395,1189,1420.2
+"13",2010,"Total New Zealand",1421,1199,1433.3
+"14",2011,"Total New Zealand",1456,1243,1428.1
+"15",2012,"Total New Zealand",1486,1268,1439.8
+"16",2013,"Total New Zealand",1534,1318,1442
+"17",2014,"Total New Zealand",1633,1378,1454.1
+"18",2015,"Total New Zealand",1674,1410,1494.8
+"19",2016,"Total New Zealand",1810,1532,1491.8
+"20",2017,"Total New Zealand",1859,1575,1522.3
+"21",2018,"Total New Zealand",1999,1707,1541.3
+"22",2019,"Total New Zealand",2039,1760,1570.7
+"23",2020,"Total New Zealand",2021,1746,1593.3
+"24",2021,"Total New Zealand",2198,1880,1620.6
+"25",1998,"Northlan District",702,575,45.3
+"26",1999,"Northlan District",754,581,45.8
+"27",2000,"Northlan District",736,593,45.6
+"28",2001,"Northlan District",786,634,47.8
+"29",2002,"Northlan District",846,660,46.7
+"30",2003,"Northlan District",899,761,47.8
+"31",2004,"Northlan District",925,767,46.5
+"32",2005,"Northlan District",1074,850,48.7
+"33",2006,"Northlan District",1055,945,49.2
+"34",2007,"Northlan District",1174,960,50.3
+"35",2008,"Northlan District",1030,911,52.5
+"36",2009,"Northlan District",1143,1001,51.1
+"37",2010,"Northlan District",1181,972,51.9
+"38",2011,"Northlan District",1204,964,52.9
+"39",2012,"Northlan District",1112,948,54
+"40",2013,"Northlan District",1222,1020,52.5
+"41",2014,"Northlan District",1284,1043,53.6
+"42",2015,"Northlan District",1315,1002,57.4
+"43",2016,"Northlan District",1367,1227,56.5
+"44",2017,"Northlan District",1401,1151,56
+"45",2018,"Northlan District",1649,1343,59.6
+"46",2019,"Northlan District",1701,1311,57.5
+"47",2020,"Northlan District",1637,1339,60.6
+"48",2021,"Northlan District",1720,1534,60.5
+"49",1998,"Auckland District",1066,900,368.5
+"50",1999,"Auckland District",1074,914,376.8
+"51",2000,"Auckland District",1097,921,384.1
+"52",2001,"Auckland District",1162,955,381.7
+"53",2002,"Auckland District",1206,1034,395.5
+"54",2003,"Auckland District",1264,1030,412.8
+"55",2004,"Auckland District",1362,1072,428.7
+"56",2005,"Auckland District",1365,1120,433.6
+"57",2006,"Auckland District",1344,1166,440.6
+"58",2007,"Auckland District",1425,1218,450.7
+"59",2008,"Auckland District",1516,1304,457.5
+"60",2009,"Auckland District",1466,1247,462.4
+"61",2010,"Auckland District",1519,1244,464.7
+"62",2011,"Auckland District",1600,1381,466.1
+"63",2012,"Auckland District",1656,1366,475.7
+"64",2013,"Auckland District",1661,1406,473.3
+"65",2014,"Auckland District",1766,1458,482.7
+"66",2015,"Auckland District",1865,1534,482.4
+"67",2016,"Auckland District",2018,1686,488.3
+"68",2017,"Auckland District",2113,1784,498.7
+"69",2018,"Auckland District",2256,1937,501.6
+"70",2019,"Auckland District",2249,1967,514.8
+"71",2020,"Auckland District",2217,1918,518.7
+"72",2021,"Auckland District",2457,2071,535.2
+"73",1998,"Waikato District",864,729,113.3
+"74",1999,"Waikato District",839,720,118.6
+"75",2000,"Waikato District",892,770,119.8
+"76",2001,"Waikato District",921,806,119.6
+"77",2002,"Waikato District",999,864,121.9
+"78",2003,"Waikato District",1017,896,126.4
+"79",2004,"Waikato District",1081,882,127.2
+"80",2005,"Waikato District",1141,997,127.7
+"81",2006,"Waikato District",1192,1074,130.3
+"82",2007,"Waikato District",1300,1128,128.5
+"83",2008,"Waikato District",1313,1200,130
+"84",2009,"Waikato District",1342,1197,133
+"85",2010,"Waikato District",1308,1151,133.4
+"86",2011,"Waikato District",1368,1150,133.9
+"87",2012,"Waikato District",1499,1219,133.2
+"88",2013,"Waikato District",1428,1244,136.3
+"89",2014,"Waikato District",1414,1211,143.5
+"90",2015,"Waikato District",1537,1314,147.1
+"91",2016,"Waikato District",1766,1486,142.7
+"92",2017,"Waikato District",1707,1498,144.5
+"93",2018,"Waikato District",1904,1675,149.1
+"94",2019,"Waikato District",1955,1726,155.2
+"95",2020,"Waikato District",1977,1712,157
+"96",2021,"Waikato District",2083,1812,156
+"97",1998,"Bay Of Plenty District",841,701,74.7
+"98",1999,"Bay Of Plenty District",865,767,76.6
+"99",2000,"Bay Of Plenty District",815,692,79.9
+"100",2001,"Bay Of Plenty District",899,729,77.6
+"101",2002,"Bay Of Plenty District",925,767,79.7
+"102",2003,"Bay Of Plenty District",1001,819,80
+"103",2004,"Bay Of Plenty District",1001,863,80.3
+"104",2005,"Bay Of Plenty District",1025,915,78
+"105",2006,"Bay Of Plenty District",1107,959,84.3
+"106",2007,"Bay Of Plenty District",1242,1108,82.1
+"107",2008,"Bay Of Plenty District",1244,1110,82.8
+"108",2009,"Bay Of Plenty District",1275,1151,84.8
+"109",2010,"Bay Of Plenty District",1309,1186,85.1
+"110",2011,"Bay Of Plenty District",1292,1170,85.2
+"111",2012,"Bay Of Plenty District",1340,1162,82.4
+"112",2013,"Bay Of Plenty District",1386,1238,85.2
+"113",2014,"Bay Of Plenty District",1415,1223,87.5
+"114",2015,"Bay Of Plenty District",1516,1300,94.4
+"115",2016,"Bay Of Plenty District",1591,1425,90.1
+"116",2017,"Bay Of Plenty District",1673,1387,96.1
+"117",2018,"Bay Of Plenty District",1907,1642,97.8
+"118",2019,"Bay Of Plenty District",1874,1657,103.4
+"119",2020,"Bay Of Plenty District",1919,1630,101.5
+"120",2021,"Bay Of Plenty District",2102,1806,104.2
+"121",1998,"Eastern District",784,628,63
+"122",1999,"Eastern District",846,744,61
+"123",2000,"Eastern District",856,750,59.9
+"124",2001,"Eastern District",879,734,62.9
+"125",2002,"Eastern District",902,786,64.5
+"126",2003,"Eastern District",975,824,64.5
+"127",2004,"Eastern District",972,852,65
+"128",2005,"Eastern District",1016,900,65.7
+"129",2006,"Eastern District",1129,1019,64.4
+"130",2007,"Eastern District",1168,1072,63.5
+"131",2008,"Eastern District",1235,1125,65.6
+"132",2009,"Eastern District",1267,1105,64.7
+"133",2010,"Eastern District",1246,1036,65.7
+"134",2011,"Eastern District",1222,1070,65.3
+"135",2012,"Eastern District",1307,1170,64.3
+"136",2013,"Eastern District",1257,1129,65
+"137",2014,"Eastern District",1320,1152,64.5
+"138",2015,"Eastern District",1388,1250,67.3
+"139",2016,"Eastern District",1633,1379,66.8
+"140",2017,"Eastern District",1585,1404,69.3
+"141",2018,"Eastern District",1646,1448,70.5
+"142",2019,"Eastern District",1795,1522,68.9
+"143",2020,"Eastern District",1881,1612,69.9
+"144",2021,"Eastern District",2045,1854,68.8
+"145",1998,"Central District",797,679,34.5
+"146",1999,"Central District",796,649,34.7
+"147",2000,"Central District",811,686,35
+"148",2001,"Central District",893,729,35.6
+"149",2002,"Central District",956,774,35.2
+"150",2003,"Central District",1044,900,35
+"151",2004,"Central District",996,850,35.2
+"152",2005,"Central District",1132,993,34.8
+"153",2006,"Central District",1206,1055,35.1
+"154",2007,"Central District",1272,1151,35.3
+"155",2008,"Central District",1400,1199,34.7
+"156",2009,"Central District",1385,1216,34.9
+"157",2010,"Central District",1412,1189,35.7
+"158",2011,"Central District",1356,1166,36.1
+"159",2012,"Central District",1497,1282,37.1
+"160",2013,"Central District",1526,1343,37
+"161",2014,"Central District",1632,1419,36.8
+"162",2015,"Central District",1684,1400,37.6
+"163",2016,"Central District",1558,1387,38.4
+"164",2017,"Central District",1637,1393,42.9
+"165",2018,"Central District",1740,1432,41.3
+"166",2019,"Central District",1735,1418,42.5
+"167",2020,"Central District",1944,1657,41.2
+"168",2021,"Central District",1960,1842,40.5
+"169",1998,"Central District",701,608,74.9
+"170",1999,"Central District",737,643,74.8
+"171",2000,"Central District",774,614,73.3
+"172",2001,"Central District",861,719,74.9
+"173",2002,"Central District",876,711,76.4
+"174",2003,"Central District",918,724,76.3
+"175",2004,"Central District",1008,875,73.6
+"176",2005,"Central District",1026,909,76.1
+"177",2006,"Central District",1023,910,77.7
+"178",2007,"Central District",1098,973,75.9
+"179",2008,"Central District",1137,1038,76.1
+"180",2009,"Central District",1156,1040,78.7
+"181",2010,"Central District",1233,1050,76.5
+"182",2011,"Central District",1201,1025,77.9
+"183",2012,"Central District",1224,1074,77.9
+"184",2013,"Central District",1234,1083,77.1
+"185",2014,"Central District",1295,1145,76
+"186",2015,"Central District",1266,1050,81.8
+"187",2016,"Central District",1395,1227,81.8
+"188",2017,"Central District",1457,1240,82.6
+"189",2018,"Central District",1552,1358,80
+"190",2019,"Central District",1695,1482,78.5
+"191",2020,"Central District",1656,1435,82.8
+"192",2021,"Central District",1836,1470,85.8
+"193",1998,"Wellingtion District",1072,910,143.1
+"194",1999,"Wellingtion District",1107,959,146.1
+"195",2000,"Wellingtion District",1114,950,144.6
+"196",2001,"Wellingtion District",1177,1026,147.4
+"197",2002,"Wellingtion District",1213,1036,149.3
+"198",2003,"Wellingtion District",1218,1017,153.5
+"199",2004,"Wellingtion District",1187,1050,156.1
+"200",2005,"Wellingtion District",1251,1074,156.1
+"201",2006,"Wellingtion District",1360,1168,156.1
+"202",2007,"Wellingtion District",1588,1310,164.6
+"203",2008,"Wellingtion District",1538,1365,163
+"204",2009,"Wellingtion District",1674,1293,162.7
+"205",2010,"Wellingtion District",1653,1343,164.4
+"206",2011,"Wellingtion District",1639,1367,161.1
+"207",2012,"Wellingtion District",1647,1406,162.6
+"208",2013,"Wellingtion District",1725,1477,167.7
+"209",2014,"Wellingtion District",1846,1623,166.6
+"210",2015,"Wellingtion District",1823,1534,174
+"211",2016,"Wellingtion District",2098,1726,169.9
+"212",2017,"Wellingtion District",2182,1900,168.8
+"213",2018,"Wellingtion District",2249,1958,170.1
+"214",2019,"Wellingtion District",2287,1996,177.4
+"215",2020,"Wellingtion District",2289,2072,176.4
+"216",2021,"Wellingtion District",2555,2279,174.8
+"217",1998,"Tasman District",757,662,52.2
+"218",1999,"Tasman District",800,690,51.4
+"219",2000,"Tasman District",828,745,51.9
+"220",2001,"Tasman District",908,825,52.6
+"221",2002,"Tasman District",961,859,53
+"222",2003,"Tasman District",963,863,53.4
+"223",2004,"Tasman District",1022,863,54.3
+"224",2005,"Tasman District",1124,946,56.8
+"225",2006,"Tasman District",1163,1051,55.5
+"226",2007,"Tasman District",1268,1130,55.2
+"227",2008,"Tasman District",1310,1151,57.3
+"228",2009,"Tasman District",1343,1177,57.4
+"229",2010,"Tasman District",1299,1176,57.7
+"230",2011,"Tasman District",1353,1182,57.1
+"231",2012,"Tasman District",1350,1210,56.7
+"232",2013,"Tasman District",1357,1206,57.5
+"233",2014,"Tasman District",1517,1274,56.1
+"234",2015,"Tasman District",1541,1331,57.6
+"235",2016,"Tasman District",1561,1287,59.9
+"236",2017,"Tasman District",1651,1421,58.1
+"237",2018,"Tasman District",1757,1511,59.1
+"238",2019,"Tasman District",1803,1605,59.7
+"239",2020,"Tasman District",1819,1619,60.8
+"240",2021,"Tasman District",1854,1591,64.4
+"241",1998,"Canterbury District",794,702,159.5
+"242",1999,"Canterbury District",931,774,160.5
+"243",2000,"Canterbury District",900,760,164.9
+"244",2001,"Canterbury District",934,831,167.3
+"245",2002,"Canterbury District",1034,865,161.1
+"246",2003,"Canterbury District",1081,952,166.8
+"247",2004,"Canterbury District",1112,959,176.3
+"248",2005,"Canterbury District",1217,1074,179.2
+"249",2006,"Canterbury District",1300,1106,186.8
+"250",2007,"Canterbury District",1327,1167,186
+"251",2008,"Canterbury District",1386,1222,181.5
+"252",2009,"Canterbury District",1362,1203,189.9
+"253",2010,"Canterbury District",1383,1231,195.6
+"254",2011,"Canterbury District",1429,1212,189
+"255",2012,"Canterbury District",1374,1247,190.7
+"256",2013,"Canterbury District",1605,1350,187.4
+"257",2014,"Canterbury District",1756,1526,183.9
+"258",2015,"Canterbury District",1729,1535,186.4
+"259",2016,"Canterbury District",1790,1598,191.9
+"260",2017,"Canterbury District",1817,1588,196.6
+"261",2018,"Canterbury District",1938,1681,199.1
+"262",2019,"Canterbury District",2011,1740,198.7
+"263",2020,"Canterbury District",1952,1738,204.6
+"264",2021,"Canterbury District",2037,1758,216
+"265",1998,"Southern District",786,690,66.4
+"266",1999,"Southern District",818,675,61.9
+"267",2000,"Southern District",774,654,61.3
+"268",2001,"Southern District",859,734,63.1
+"269",2002,"Southern District",893,775,63.3
+"270",2003,"Southern District",937,769,65.6
+"271",2004,"Southern District",973,815,66.2
+"272",2005,"Southern District",1053,863,69.2
+"273",2006,"Southern District",1161,960,68.5
+"274",2007,"Southern District",1182,1036,68.5
+"275",2008,"Southern District",1196,1039,68.5
+"276",2009,"Southern District",1307,1123,67.5
+"277",2010,"Southern District",1358,1247,70.2
+"278",2011,"Southern District",1379,1214,70.8
+"279",2012,"Southern District",1295,1145,72.6
+"280",2013,"Southern District",1434,1305,70.6
+"281",2014,"Southern District",1639,1393,70.2
+"282",2015,"Southern District",1563,1391,74.3
+"283",2016,"Southern District",1543,1455,70.6
+"284",2017,"Southern District",1609,1486,72.8
+"285",2018,"Southern District",1826,1720,78.9
+"286",2019,"Southern District",1734,1536,79.8
+"287",2020,"Southern District",1713,1536,83.5
+"288",2021,"Southern District",1972,1618,80.8
+"289",1998,"Southern District",937,786,31.8
+"290",1999,"Southern District",846,750,31.9
+"291",2000,"Southern District",834,702,30.9
+"292",2001,"Southern District",1042,850,30.3
+"293",2002,"Southern District",1011,895,30.3
+"294",2003,"Southern District",1137,936,30.5
+"295",2004,"Southern District",1048,900,31.5
+"296",2005,"Southern District",1118,960,32
+"297",2006,"Southern District",1148,1012,32.8
+"298",2007,"Southern District",1257,1130,32.3
+"299",2008,"Southern District",1329,1167,31.5
+"300",2009,"Southern District",1246,1107,33
+"301",2010,"Southern District",1386,1207,32.4
+"302",2011,"Southern District",1364,1261,32.8
+"303",2012,"Southern District",1428,1203,32.7
+"304",2013,"Southern District",1428,1330,32.4
+"305",2014,"Southern District",1601,1399,32.7
+"306",2015,"Southern District",1550,1359,34.4
+"307",2016,"Southern District",1633,1518,34.9
+"308",2017,"Southern District",1420,1282,36
+"309",2018,"Southern District",1503,1436,34.2
+"310",2019,"Southern District",1966,1553,34.3
+"311",2020,"Southern District",1635,1500,36.2
+"312",2021,"Southern District",1684,1620,33.6

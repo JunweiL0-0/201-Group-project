@@ -1,0 +1,5 @@
+I've found https://www.educationcounts.govt.nz/statistics/life_after_study
+In there there is multiple datasets on emplyment, income and earnings, and health for students who graduate with certain degrees.
+Adding this in as there is likely a relationship we could model between how child poverty causes lower pass rates causing worse income causing more crime.
+Didn't import the dataset as there is quite a few of them, will do if we decide they are useful.
+Unsure how to make this a readme.
