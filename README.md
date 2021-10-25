@@ -47,3 +47,6 @@
 
 # **GitLab**
 * #### https://eng-git.canterbury.ac.nz/
+
+# **Shiny APP**
+* #### https://data201dhrl.shinyapps.io/data201dhrldeployedshinyapp/
