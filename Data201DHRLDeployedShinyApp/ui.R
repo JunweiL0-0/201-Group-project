@@ -4,7 +4,7 @@ library(ggplot2)
 library(tidyverse)
 
 locations = c("Auckland District", "Waikato District", "Bay Of Plenty District", "Eastern District", "Central District", "Tasman District",
-              "Canterbury District", "Southern District")
+              "Canterbury District", "Southern District", "Wellington District", "Northland District")
 
 detail_types = c("Homicide and related offences", "Acts intended to cause injury", "Sexual assault and related offences",
                  "Dangerous or negligent acts endangering persons", "Abduction, harassment and other related offences against a person",
