@@ -86,7 +86,7 @@ def main():
         # Select offence
         selected_offence = int(input("Please select one offence type: "))
         # Specify offence happen or not
-        offence_boolean_value = (input("Offence happen or not(Y/N): ")).upper() == "Y"
+        offence_boolean_value = (input("Offence happens or not(Y/N): ")).upper() == "Y"
         # Specify Average income increase or not
         average_income_boolean_value = (input("Average income increace or not(Y/N): ")).upper() == "Y"
 
